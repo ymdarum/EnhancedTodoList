@@ -1,4 +1,4 @@
-# Todo List Application
+# Enhanced Todo List Application
 
 A Next.js-based todo list application with features for task management and organization.
 
