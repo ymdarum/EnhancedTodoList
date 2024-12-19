@@ -2,6 +2,9 @@
 
 A Next.js-based todo list application with features for task management and organization.
 
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/ymdarum?style=social)](https://github.com/sponsors/ymdarum)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ymdarum)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
