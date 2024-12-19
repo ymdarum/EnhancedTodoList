@@ -78,7 +78,7 @@ To learn more about the technologies used in this project:
 5. Open a Pull Request
 
 ## Support
-
+if you like this project, please consider supporting it:
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/ymdarum?style=social)](https://github.com/sponsors/ymdarum)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ymdarum)
 
